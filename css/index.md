@@ -7,5 +7,5 @@
 <<< @/views/scroll-style.vue
 
 <script setup>
-import ScrollStyle from './views/scroll-style.vue'
+import ScrollStyle from '../views/scroll-style.vue'
 </script>
