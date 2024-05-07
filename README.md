@@ -1,2 +1,3 @@
 # blog-vitepress
-vitepress 搭建的 blog
+
+基于 [vitepress](https://vitepress.dev/zh/) 搭建的 blog 。
