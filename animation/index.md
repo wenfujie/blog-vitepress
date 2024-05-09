@@ -1,8 +1,6 @@
-
-
 # 简单动画
 
-## hover 后旋转
+## hover 后旋转一圈
 
 <Animation />
 
